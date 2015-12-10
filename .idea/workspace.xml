@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dfe5c18-8b20-4bc3-90a1-e243ea941efd" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\wamp2\www\test-azure\images\1 (2).jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="$PROJECT_DIR$/images/1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/chocolat.css" afterPath="$PROJECT_DIR$/css/chocolat.css" />
     </list>
     <ignored path="test-azure.iws" />
@@ -84,8 +82,8 @@
       <file leaf-file-name="chocolat.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/chocolat.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.411594" vertical-offset="18819" max-vertical-offset="26367">
-              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.5128593" vertical-offset="8841" max-vertical-offset="26367">
+              <caret line="540" column="1" selection-start-line="540" selection-start-column="1" selection-end-line="540" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -470,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/chocolat.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.411594" vertical-offset="18819" max-vertical-offset="26367">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.5128593" vertical-offset="8841" max-vertical-offset="26367">
+          <caret line="540" column="1" selection-start-line="540" selection-start-column="1" selection-end-line="540" selection-end-column="1" />
           <folding />
         </state>
       </provider>
