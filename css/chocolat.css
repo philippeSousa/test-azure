@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 body{
     font-family: 'Raleway-Regular';
     background: #fff;
@@ -38,7 +33,7 @@ h1,h2,h3,h4,h5,h6,p,label{
 
 /*----- slider-caption -----*/
 .slider{
-    background:url(../images/6.jpg)no-repeat ;
+    background:url(../images/2.jpeg)no-repeat ;
     width:100%;
     min-height:700px;
     display:block;
